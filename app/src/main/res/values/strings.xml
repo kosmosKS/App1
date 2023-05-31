@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DriodQuest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="next_button">Далее</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_android">OC Android основана на ядре Linux.</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в строки и столбцы.</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляют доступ к данным.</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе.</string>
+    <string name="question_reliz">Релиз первой версии ОС Android состоялся 23 сентября 2008г.</string>
+    <string name="question_java">Android позволяет запускать Java-приложения, управляющие устройством через разработанные Google библиотеки.</string>
+    <string name="question_system">В 50% смартфонов, проданных во всём мире во втором квартале 2014 года, была установлена операционная система Android.</string>
+    <string name="question_google">На конференции разработчиков в мае 2017 года Google объявила, что за всю историю Android было активировано более 2 млрд Android-устройств.</string>
+    <string name="question_root">На оболочках Android можно получить root-доступ (права суперпользователя).</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть !</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+</resources>
